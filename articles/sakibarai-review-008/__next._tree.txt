@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/0u9~f8fij1a~r.css","style"]
-:HL["/_next/static/chunks/16b~awrni-wsx.css","style"]
+:HL["/_next/static/chunks/0xrdj8av4tcs8.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/cover-5.png","image"]
 :HL["/images/cover-6.png","image"]
@@ -9,4 +9,4 @@
 :HL["/images/icon-atobarai-news.png","image"]
 :HL["/images/icon-atobarai-review.png","image"]
 :HL["/images/cover-2.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sakibarai-review-008","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"YFsxOAEtUxnd52CcRRZuS"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sakibarai-review-008","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"qDqn9db4KtOtUKRj533Vv"}
