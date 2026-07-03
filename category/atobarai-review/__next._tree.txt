@@ -5,4 +5,4 @@
 :HL["/images/icon-sakibarai-review.png","image"]
 :HL["/images/icon-atobarai-news.png","image"]
 :HL["/images/icon-atobarai-review.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"atobarai-review","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"7XEv6z-rdeCMEPVWhJ4EW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"atobarai-review","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Q7SCj6I2qvAL7gpWCBR82"}
