@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/06n4roqk_kxxo.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+a:I[97367,["/_next/static/chunks/06n4roqk_kxxo.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/images/cover-4.png","image"]
+:HL["/images/kv-gift-card-genkinka.png","image"]
+:HL["/images/kv-hearing-nashi-sakibarai.png","image"]
+:HL["/images/kv-saishin-sakibarai-4sha.png","image"]
+:HL["/images/icon-sakibarai-news.png","image"]
+:HL["/images/icon-sakibarai-review.png","image"]
+:HL["/images/icon-atobarai-news.png","image"]
+:HL["/images/icon-atobarai-review.png","image"]
+:HL["/images/cover-5.png","image"]
+3:T3510,<div style="background-color: #fff3f3; border: 2px solid #ff4d4d; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
+    <p style="color: #d63031; font-weight: bold; margin-top: 0;">【重要】ご利用前の注意事項</p>
+    <p style="font-size: 0.9em; line-height: 1.6; margin-bottom: 0;">本記事は、先払い買取サービスや買取ザウルスの利用を推奨するものではありません。あくまで情報提供と注意喚起を目的としており、取引の可否や判断は利用者ご自身の責任においておこなってください。</p>
+</div>
+<p>「買取ザウルスの審査に落ちた」「連絡が来ない」「後払いプランはあるの？」——買取ザウルスは、審査や連絡に関する疑問とともに検索されている先払い買取業者です。本記事では、公式サイト・国税庁系の公的データベースで運営会社を実際に確認し、口コミ・評判の傾向とあわせて検証しました（2026年7月4日確認）。</p>
+<div style="background-color: #eeeeee; padding: 20px; border-radius: 8px; margin: 25px 0;">
+    <p style="font-weight: bold; text-align: center; margin-top: 0;">▼▼ 先払い買取サービスを検討する際の注意点 ▼▼</p>
+    <p style="font-size: 0.9em; line-height: 1.6; margin-bottom: 10px;">政府広報・金融庁・警察庁は「先払い買取現金化」を新たな手口のヤミ金融として名指しで注意喚起しています。利用の際は契約内容をよく確認し、慎重に検討してください。</p>
+    <p style="font-size: 0.85em; color: #666; border-top: 1px solid #ccc; padding-top: 10px; margin-bottom: 0;">（参考：<a rel="noopener" href="https://www.gov-online.go.jp/article/202103/entry-9958.html" target="_blank">政府広報オンライン｜新たな手口のヤミ金融に注意！「＃個人間融資」「後払い（ツケ払い）現金化」「先払い買取現金化」</a>）</p>
+</div>
+<h2>買取ザウルスとは？どんな先払い買取業者？</h2>
+<p>※以下の内容は、公式サイト（kaitori-monster.net）の記載を引用・整理したものであり、当サイトが安全性を保証するものではありません（2026年7月4日確認）。</p>
+<h3>買取ザウルスの基本情報</h3>
+<div style="overflow-x: auto;">
+<table style="width: 100%; border-collapse: collapse; font-size: 0.95em;">
+    <tbody>
+        <tr>
+            <th style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2; width: 30%;">屋号</th>
+            <td style="border: 1px solid #ddd; padding: 10px;">買取ザウルス</td>
+        </tr>
+        <tr>
+            <th style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">買取対象</th>
+            <td style="border: 1px solid #ddd; padding: 10px;">全国百貨店共通商品券・各種商品券／ギフトカード・切手・収入印紙・株主優待券</td>
+        </tr>
+        <tr>
+            <th style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">買取プラン</th>
+            <td style="border: 1px solid #ddd; padding: 10px;">①先払い買取 ／ ②郵送買取（商品を先に送る後払い型）</td>
+        </tr>
+        <tr>
+            <th style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">買取率</th>
+            <td style="border: 1px solid #ddd; padding: 10px;"><strong>定率の公表なし</strong>（「買取額最大40％UP」等のキャンペーン表示のみ・査定は個別）</td>
+        </tr>
+        <tr>
+            <th style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">振込スピード</th>
+            <td style="border: 1px solid #ddd; padding: 10px;">最短10分査定・即日振込対応（LINE完結）</td>
+        </tr>
+        <tr>
+            <th style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">本人確認</th>
+            <td style="border: 1px solid #ddd; padding: 10px;">氏名・住所が申込内容および振込口座名義と一致する有効期限内の身分証が必須。18歳未満は買取不可</td>
+        </tr>
+        <tr>
+            <th style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">公式サイト</th>
+            <td style="border: 1px solid #ddd; padding: 10px;"><a rel="nofollow noopener" href="https://kaitori-monster.net/" target="_blank">https://kaitori-monster.net/</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<h3>買取ザウルスの運営者情報</h3>
+<div style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #fafafa; font-size: 0.9em;">
+    <p style="margin: 0;"><strong>運営会社：</strong>株式会社ＹＨＲ</p>
+    <p style="margin: 5px 0;"><strong>所在地：</strong>〒160-0023 東京都新宿区西新宿三丁目3番13号 西新宿水間ビル6階</p>
+    <p style="margin: 5px 0;"><strong>古物商許可：</strong>東京都公安委員会 第304362415330号</p>
+</div>
+<h2>【事実確認】運営会社を公的データベースで検証（2026年7月4日）</h2>
+<p>当編集部で、公式サイトの記載を公的データベースと照合しました。確認できた事実のみを記載します。</p>
+<div style='border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #fafafa; font-size: 0.9em;'>
+<p style='margin: 0;'><strong>① 法人の実在：</strong>国税庁法人番号公表サイト・gBizINFOで「株式会社ＹＨＲ」（法人番号 1011101105165）の登録を確認。所在地「東京都新宿区西新宿3丁目3番13号 西新宿水間ビル6階」は<strong>公式サイトの記載と一致</strong>しています。法人設立は2023年11月で、比較的新しい法人です。</p>
+<p style='margin: 10px 0 0;'><strong>② 古物商許可：</strong>公式サイトに「東京都公安委員会 第304362415330号」の記載があります（許可番号自体の登録実在は当編集部では一次確認できていません）。</p>
+<p style='margin: 10px 0 0;'><strong>③ 貸金業登録：</strong>金融庁「登録貸金業者情報検索サービス」で確認できる登録情報は見当たりませんでした（買取スキームのため登録がないこと自体は直ちに違法ではありませんが、経済的実態が貸付けと判断されれば無登録貸金業に該当するおそれのある類型です）。</p>
+<p style='margin: 10px 0 0;'><strong>④ 買取率の非公示：</strong>公式サイトには具体的な買取率（換金率）の定率表記がなく、「最大40％UP」等のキャンペーン表示のみです。<strong>事前に実質コストを比較できない</strong>点は、条件を明示する他社（例：タートルチケット60〜80％）より不透明です。</p>
+</div>
+<h2>「審査落ち」「連絡来ない」の傾向と対処</h2>
+<p>買取ザウルスは「審査落ち」というワードとともに検索されています。紹介サイト等に見られる傾向を要約します（真偽を確認できない二次情報である点にご注意ください）。</p>
+<ul style="line-height: 1.8;">
+<li><strong>審査があるサービスです：</strong>「審査なし」ではなく、申込情報と本人確認書類にもとづくヒアリング・審査があります。氏名・住所・口座名義の不一致や虚偽申告は否決の典型例とされます。</li>
+<li><strong>審査落ちの理由は開示されません：</strong>過去の取引トラブル（発送遅延・飛ばし等）が影響するという指摘が紹介サイトに見られますが、業者側は理由を開示しないため確認できません。</li>
+<li><strong>「連絡が来ない」報告：</strong>混雑や入力ミス・迷惑メールフォルダ振り分けが原因とされる報告が見られます。一定時間連絡がない場合、複数業者への同時申込みを勧める紹介サイトもありますが、<strong>申込ごとに個人情報（身分証）を渡すことになる</strong>ため安易な多重申込はおすすめしません。</li>
+</ul>
+<h2>買取ザウルスの口コミ・評判・系列の傾向</h2>
+<ul style="line-height: 1.8;">
+<li><strong>公式サイト掲載の「お客様の声」：</strong>高査定・スピードを称える体験談が掲載されていますが、自社サイト掲載のため中立的な口コミとしては扱えません。</li>
+<li><strong>5ch等の傾向：</strong>振込スピードを評価する声がある一方、審査落ち・連絡の遅さに関する不満が見られます。</li>
+<li><strong>系列の噂：</strong>「御三家系列」（買取キャンプ・ラフ・スマイル等と同系）とする分類が紹介サイトに見られますが、<strong>登記等で裏付けられる一次情報は確認できていません</strong>（2026年7月4日時点）。</li>
+</ul>
+<h2>利用前に知っておくべきリスク</h2>
+<ul style="line-height: 1.8;">
+<li><strong>買取率が事前にわからない：</strong>査定を受けるまで実質コストが不明です。査定額に納得できない場合は契約前に断れるか、キャンセル条件を必ず確認してください。</li>
+<li><strong>発送義務：</strong>先払いプランで入金を受けた後、期限内に商品を送らない「飛ばし」は債務不履行であり、違約金請求・督促、最悪の場合詐欺罪のリスクがあります（詳細：<a href="/articles/sakibarai-tobashi/">先払い買取の「飛ばし」のリスク</a>）。</li>
+<li><strong>公的機関が注意喚起する類型：</strong>先払い買取現金化そのものが、政府広報・金融庁の名指し注意喚起の対象です。</li>
+</ul>
+<h2>よくある質問</h2>
+<h3>Q. 買取ザウルスはヤミ金ですか？</h3>
+<p>A. 買取ザウルスは貸金業ではなく「先払い買取」サービスで、運営会社の株式会社ＹＨＲに貸金業登録はありません（金融庁検索で2026年7月4日確認・売買スキームのため登録がないこと自体は違法ではありません）。一方で金融庁・警察庁は、先払い買取現金化という仕組み全般について「経済的実態が貸付けなら無登録貸金業に該当するおそれがある」と注意喚起しています。個別の適法性を当サイトが断定することはできないため、利用は慎重に判断してください。</p>
+<h3>Q. 審査に落ちました。理由は確認できますか？</h3>
+<p>A. 審査基準・否決理由は開示されないのが通例です。申込情報の不備（氏名・住所・口座名義の不一致、身分証の期限切れ）がないかをまず確認してください。なお、審査に落ちたからといって、より条件の悪い業者や「審査なし」をうたう業者に流れるのは危険です（<a href="/articles/sakibarai-shinsa-amai-5ch/">先払い買取の審査は甘い？</a>で解説しています）。</p>
+<h3>Q. 後払い（郵送買取）プランとの違いは？</h3>
+<p>A. 先払いプランは入金が先・商品発送が後、郵送買取プランは商品を先に送って査定後に入金されます。一般に先払い型の方が査定額（実質の換金率）は低くなる傾向があるため、急ぎでなければ郵送買取や店頭のある金券ショップの方が条件は良くなりやすい点も比較材料にしてください。</p>
+<div style='background-color: #eef5ff; border: 1px solid #7aa7e0; padding: 20px; border-radius: 8px; margin: 25px 0;'>
+<p style='font-weight: bold; margin-top: 0;'>お金に困ったときの公的な相談先・代替手段</p>
+<p style='font-size: 0.9em; line-height: 1.7; margin-bottom: 0;'>手数料の大きい現金化に頼る前に、公的制度の利用を検討してください。市区町村の社会福祉協議会では<strong>緊急小口資金・生活福祉資金貸付</strong>（低利または無利子）の相談ができます。借金・多重債務の悩みは<strong>財務局の多重債務相談窓口</strong>や<strong>法テラス（0570-078374）</strong>、悪質業者とのトラブルは<strong>消費者ホットライン（188）</strong>へ。いずれも相談は無料です。</p>
+</div>
+<h2>まとめ：買取ザウルスを利用する前に確認したいこと</h2>
+<p>買取ザウルスは、運営会社（株式会社ＹＨＲ）の実在と所在地を公的データベースで確認できた先払い買取業者で、本人確認の要件も明記されています。一方で<strong>買取率が事前に公表されておらず、実質コストを比較できない</strong>点、審査落ち・連絡遅延の報告がある点は把握しておくべきです。利用する場合は、①査定額とキャンセル条件の契約前確認、②発送義務を確実に果たせるかの自己判断、③公的な代替手段との比較、の3点を必ず行ってください。</p>
+<div style="background-color: #f1f1f1; padding: 20px; border-radius: 8px; font-size: 0.85em; margin-top: 30px;">
+    本記事は情報提供と注意喚起を目的としており、特定のサービスの利用を推奨するものではありません。最終的な判断は利用者ご自身の責任においておこなってください。
+</div>0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"bg-bg-soft border-b border-line py-6 lg:py-8","children":["$","div",null,{"className":"mx-auto max-w-[1024px] px-4 lg:px-6","children":["$","nav",null,{"className":"text-[11px] text-muted","children":[["$","$L2",null,{"href":"/","className":"hover:text-brand-blue","children":"HOME"}],["$","span",null,{"className":"mx-2","children":"›"}],[["$","$L2",null,{"href":"/category/sakibarai-review/","className":"hover:text-brand-blue","children":"先払い買取業者レビュー"}],["$","span",null,{"className":"mx-2","children":"›"}]],["$","span",null,{"className":"text-ink line-clamp-1","children":"買取ザウルスの口コミ・評判は？審査落ち・後払いプランと運営会社を検証【2026年7月】"}]]}]}]}],["$","article",null,{"className":"mx-auto max-w-[860px] px-4 lg:px-6 py-8 lg:py-12","children":[["$","header",null,{"className":"mb-6 lg:mb-8","children":[["$","div",null,{"className":"flex items-center gap-3 text-[11px] text-muted mb-3","children":[["$","$L2",null,{"href":"/category/sakibarai-review/","className":"px-3 py-1 rounded text-white font-bold text-[11px] bg-brand-red","children":"先払い買取業者レビュー"}],["$","time",null,{"children":"2026.07.04"}],false]}],["$","h1",null,{"className":"font-display text-[22px] lg:text-[32px] font-extrabold leading-tight","children":"買取ザウルスの口コミ・評判は？審査落ち・後払いプランと運営会社を検証【2026年7月】"}],["$","p",null,{"className":"text-[13px] lg:text-[14px] text-muted mt-4 leading-relaxed","children":"「買取ザウルスの審査に落ちた」「連絡が来ない」という声の傾向と、運営会社・株式会社ＹＨＲの実在を国税庁法人番号公表サイトで確認した結果をまとめました。買取率非公示などの注意点も事実ベースで検証しています（2026年7月4日確認）。"}]]}],["$","img",null,{"src":"/images/cover-4.png","alt":"買取ザウルスの口コミ・評判は？審査落ち・後払いプランと運営会社を検証【2026年7月】","width":1200,"height":675,"className":"w-full aspect-[16/9] object-cover rounded-lg mb-8"}],["$","div",null,{"className":"prose-content leading-relaxed text-[14px] lg:text-[15px]","dangerouslySetInnerHTML":{"__html":"$3"}}],false]}],"$L4","$L5"],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"F9BI66LoQh8FuBHjTINib"}
+4:["$","section",null,{"className":"mx-auto max-w-[1280px] px-4 lg:px-6 mb-12","children":[["$","h2",null,{"className":"font-bold text-[16px] lg:text-[20px] mb-5 text-center","children":[["$","span",null,{"className":"block text-[11px] tracking-[0.18em] text-muted font-normal","children":"RELATED ARTICLE"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-2 lg:grid-cols-4 gap-3 lg:gap-5","children":[["$","$L2","gift-card-genkinka",{"href":"/articles/gift-card-genkinka/","className":"group block bg-white border border-line rounded-lg overflow-hidden hover:shadow-lg transition-shadow ","children":[["$","div",null,{"className":"relative bg-bg-soft overflow-hidden aspect-[16/10]","children":[["$","img",null,{"src":"/images/kv-gift-card-genkinka.png","alt":"","className":"absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"}],["$","span",null,{"className":"absolute top-0 left-0 bg-brand-blue text-white text-[11px] font-bold px-3 py-1 tracking-wider z-10","children":"NEW"}]]}],["$","div",null,{"className":"p-5 ","children":[["$","h3",null,{"className":"font-bold text-[14px] lg:text-[15px] leading-snug text-ink line-clamp-3 group-hover:text-brand-blue transition-colors","children":"ギフト券の現金化！即日入金可能な優良先払い買取業者4選"}],["$","p",null,{"className":"text-[12px] text-muted mt-2 line-clamp-2 leading-relaxed","children":"手元の不要なギフト券を買い取ってもらいたい急な出費で現金が必要になったから、商品券を現金化したいそんなときに利用できるサービスの一つに、先払い買取があります。"}],["$","div",null,{"className":"flex items-center justify-between mt-4","children":[["$","time",null,{"className":"text-[11px] text-muted","children":"2026.06.28"}],["$","span",null,{"className":"text-[11px] font-bold text-brand-blue group-hover:underline","children":"詳しく見る ›"}]]}]]}]]}],["$","$L2","hearing-nashi-sakibarai",{"href":"/articles/hearing-nashi-sakibarai/","className":"group block bg-white border border-line rounded-lg overflow-hidden hover:shadow-lg transition-shadow ","children":[["$","div",null,{"className":"relative bg-bg-soft overflow-hidden aspect-[16/10]","children":[["$","img",null,{"src":"/images/kv-hearing-nashi-sakibarai.png","alt":"","className":"absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"}],["$","span",null,{"className":"absolute top-0 left-0 bg-brand-blue text-white text-[11px] font-bold px-3 py-1 tracking-wider z-10","children":"NEW"}]]}],["$","div",null,{"className":"p-5 ","children":[["$","h3",null,{"className":"font-bold text-[14px] lg:text-[15px] leading-snug text-ink line-clamp-3 group-hover:text-brand-blue transition-colors","children":"ヒアリングなし・即日入金！優良先払い買取業者4選"}],["$","p",null,{"className":"text-[12px] text-muted mt-2 line-clamp-2 leading-relaxed","children":"先払い買取の利用を検討しているけど、ヒアリングや電話確認はある？"}],["$","div",null,{"className":"flex items-center justify-between mt-4","children":[["$","time",null,{"className":"text-[11px] text-muted","children":"2026.06.28"}],["$","span",null,{"className":"text-[11px] font-bold text-brand-blue group-hover:underline","children":"詳しく見る ›"}]]}]]}]]}],["$","$L2","saishin-sakibarai-4sha",{"href":"/articles/saishin-sakibarai-4sha/","className":"group block bg-white border border-line rounded-lg overflow-hidden hover:shadow-lg transition-shadow ","children":[["$","div",null,{"className":"relative bg-bg-soft overflow-hidden aspect-[16/10]","children":[["$","img",null,{"src":"/images/kv-saishin-sakibarai-4sha.png","alt":"","className":"absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"}],["$","span",null,{"className":"absolute top-0 left-0 bg-brand-blue text-white text-[11px] font-bold px-3 py-1 tracking-wider z-10","children":"NEW"}]]}],["$","div",null,{"className":"p-5 ","children":[["$","h3",null,{"className":"font-bold text-[14px] lg:text-[15px] leading-snug text-ink line-clamp-3 group-hover:text-brand-blue transition-colors","children":"最新の先払い買取業者を厳選して4社ご紹介"}],"$L7","$L8"]}]]}],"$L9"]}]]}]
+5:["$","section",null,{"className":"bg-deepdark py-10 lg:py-14","children":["$","div",null,{"className":"mx-auto max-w-[1280px] px-4 lg:px-6","children":[["$","p",null,{"className":"text-center text-[12px] tracking-[0.22em] text-white/70 mb-6","children":"CATEGORY"}],["$","div",null,{"className":"grid grid-cols-2 lg:grid-cols-4 gap-3 lg:gap-4","children":[["$","$L2","sakibarai-news",{"href":"/category/sakibarai-news/","className":"flex items-center gap-3 p-4 lg:p-5 rounded font-bold text-white text-[12px] lg:text-[14px] leading-tight cat-card-red","children":[["$","img",null,{"src":"/images/icon-sakibarai-news.png","alt":"","width":48,"height":48,"className":"w-10 h-10 lg:w-12 lg:h-12 rounded object-cover shrink-0"}],["$","span",null,{"className":"flex-1","children":"先払い買取最新情報"}],["$","span",null,{"aria-hidden":true,"className":"text-white/70","children":"›"}]]}],["$","$L2","sakibarai-review",{"href":"/category/sakibarai-review/","className":"flex items-center gap-3 p-4 lg:p-5 rounded font-bold text-white text-[12px] lg:text-[14px] leading-tight cat-card-red","children":[["$","img",null,{"src":"/images/icon-sakibarai-review.png","alt":"","width":48,"height":48,"className":"w-10 h-10 lg:w-12 lg:h-12 rounded object-cover shrink-0"}],["$","span",null,{"className":"flex-1","children":"先払い買取業者レビュー"}],["$","span",null,{"aria-hidden":true,"className":"text-white/70","children":"›"}]]}],["$","$L2","atobarai-news",{"href":"/category/atobarai-news/","className":"flex items-center gap-3 p-4 lg:p-5 rounded font-bold text-white text-[12px] lg:text-[14px] leading-tight cat-card-blue","children":[["$","img",null,{"src":"/images/icon-atobarai-news.png","alt":"","width":48,"height":48,"className":"w-10 h-10 lg:w-12 lg:h-12 rounded object-cover shrink-0"}],["$","span",null,{"className":"flex-1","children":"後払いアプリ現金化最新情報"}],["$","span",null,{"aria-hidden":true,"className":"text-white/70","children":"›"}]]}],["$","$L2","atobarai-review",{"href":"/category/atobarai-review/","className":"flex items-center gap-3 p-4 lg:p-5 rounded font-bold text-white text-[12px] lg:text-[14px] leading-tight cat-card-blue","children":[["$","img",null,{"src":"/images/icon-atobarai-review.png","alt":"","width":48,"height":48,"className":"w-10 h-10 lg:w-12 lg:h-12 rounded object-cover shrink-0"}],["$","span",null,{"className":"flex-1","children":"後払いアプリ現金化業者レビュー"}],["$","span",null,{"aria-hidden":true,"className":"text-white/70","children":"›"}]]}]]}]]}]}]
+6:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","p",null,{"className":"text-[12px] text-muted mt-2 line-clamp-2 leading-relaxed","children":"先払い買取の利用を考えているけど、どこの業者がいいのかわからないギフト券や商品券を現金化したいけど、悪徳業者に引っかからないか心配そんな先払い買取の利用を検討している方に向けて、最新の優良先"}]
+8:["$","div",null,{"className":"flex items-center justify-between mt-4","children":[["$","time",null,{"className":"text-[11px] text-muted","children":"2026.06.28"}],["$","span",null,{"className":"text-[11px] font-bold text-brand-blue group-hover:underline","children":"詳しく見る ›"}]]}]
+9:["$","$L2","turtle-ticket-review",{"href":"/articles/turtle-ticket-review/","className":"group block bg-white border border-line rounded-lg overflow-hidden hover:shadow-lg transition-shadow ","children":[["$","div",null,{"className":"relative bg-bg-soft overflow-hidden aspect-[16/10]","children":[["$","img",null,{"src":"/images/cover-5.png","alt":"","className":"absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"}],false]}],["$","div",null,{"className":"p-5 ","children":[["$","h3",null,{"className":"font-bold text-[14px] lg:text-[15px] leading-snug text-ink line-clamp-3 group-hover:text-brand-blue transition-colors","children":"タートルチケットの口コミ・評判は？系列・ヤミ金の噂と運営会社を検証【2026年7月】"}],["$","p",null,{"className":"text-[12px] text-muted mt-2 line-clamp-2 leading-relaxed","children":"「タートルチケットって信頼できる？」「系列やヤミ金の噂は本当？」という疑問に答えるため、公式サイト・国税庁法人番号公表サイト・金融庁の登録貸金業者検索で運営会社を実際に確認し、口コミ・評判とあわせて検証しました（2026年7月2日確認）。"}],["$","div",null,{"className":"flex items-center justify-between mt-4","children":[["$","time",null,{"className":"text-[11px] text-muted","children":"2026.02.27"}],["$","span",null,{"className":"text-[11px] font-bold text-brand-blue group-hover:underline","children":"詳しく見る ›"}]]}]]}]]}]
+c:null
