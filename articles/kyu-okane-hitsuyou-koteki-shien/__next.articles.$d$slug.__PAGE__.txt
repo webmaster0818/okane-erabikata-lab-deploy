@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0ig9-bxo.f-bp.js","/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+7:I[97367,["/_next/static/chunks/0ig9-bxo.f-bp.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/images/cover-2.png","image"]
+:HL["/images/icon-sakibarai-news.png","image"]
+:HL["/images/icon-sakibarai-review.png","image"]
+:HL["/images/icon-atobarai-news.png","image"]
+:HL["/images/icon-atobarai-review.png","image"]
+3:T26f8,<p>クレジットカードの現金化や先払い買取などに手を出す前に、まず知っておきたいのが<strong>国や自治体の公的な貸付・給付制度と、無料の相談窓口</strong>です。公的な制度は「即日で借りられる」ものではありませんが、<strong>無利子・低利子で、取り立てや高額な手数料のリスクがありません</strong>。この記事では、急にお金が必要になったときに使える公的制度と相談先を、2026年7月時点の公式情報をもとにまとめました。</p>
+<div style="background-color:#eef6ff;border:1px solid #b6d4fe;border-radius:8px;padding:16px;margin:20px 0;">
+<p style="margin:0;font-weight:bold;color:#0b5ed7;">まず最初の相談先：自立相談支援機関</p>
+<p style="margin:8px 0 0;font-size:0.92em;line-height:1.7;">「どの制度が使えるか分からない」という場合は、お住まいの自治体の<strong>自立相談支援機関</strong>（生活困窮者自立支援制度の総合相談窓口）に相談するのが近道です。家賃・仕事・生活費・借金など、複数の制度を横断的に案内してもらえます。相談は無料です。<br><span style="font-size:0.9em;">出典：<a rel="nofollow noopener" target="_blank" href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html">生活困窮者自立支援制度（厚生労働省）</a></span></p>
+</div>
+<h2>急にお金が必要なときに使える公的な貸付・給付制度</h2>
+<h3>1. 緊急小口資金（生活福祉資金貸付制度）</h3>
+<ul>
+<li><strong>対象：</strong>低所得世帯などで、緊急かつ一時的に生計維持が困難になった世帯</li>
+<li><strong>金額：</strong>10万円以内</li>
+<li><strong>利子・保証人：</strong>無利子・連帯保証人不要</li>
+<li><strong>申込先：</strong>お住まいの市区町村社会福祉協議会</li>
+<li><strong>所要日数：</strong>審査があるため即日は不可。通常は申込から数日〜（社協・自治体により異なる）</li>
+</ul>
+<p style="font-size:0.9em;color:#555;">※新型コロナの特例貸付（上限20万円への拡大等）は2022年9月30日で申請受付を終了しており、現在は通常制度（上限10万円）です。出典：<a rel="nofollow noopener" target="_blank" href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatsu-fukushi-shikin1/kashitsukejoken.html">生活福祉資金貸付条件等一覧（厚労省）</a></p>
+<h3>2. 総合支援資金（生活支援費／生活福祉資金貸付制度）</h3>
+<ul>
+<li><strong>対象：</strong>失業などで生活に困窮し、日常生活の維持が困難になった世帯（就労支援と一体で利用）</li>
+<li><strong>金額：</strong>2人以上世帯は月20万円以内、単身世帯は月15万円以内</li>
+<li><strong>利子・保証人：</strong>連帯保証人ありは無利子／なしは年1.5%（保証人なしでも貸付可）</li>
+<li><strong>申込先：</strong>市区町村社会福祉協議会（自立相談支援機関と連携）</li>
+<li><strong>所要日数：</strong>審査・相談支援が前提のため即日は不可</li>
+</ul>
+<p style="font-size:0.9em;color:#555;">出典：<a rel="nofollow noopener" target="_blank" href="https://www.shakyo.or.jp/guide/shikin/index.html">福祉の貸付制度（全国社会福祉協議会）</a></p>
+<h3>3. 住居確保給付金（家賃の支援・返済不要）</h3>
+<ul>
+<li><strong>対象：</strong>離職・廃業後2年以内、または本人の責任によらず収入が同程度まで減少した人（世帯収入・資産の要件あり／求職活動が条件）</li>
+<li><strong>金額：</strong>自治体ごとの上限額（生活保護の住宅扶助基準に準じる）を上限に、実際の家賃額を大家・仲介業者へ直接支給</li>
+<li><strong>支給期間：</strong>原則3か月（延長は2回まで・最長9か月）</li>
+<li><strong>申込先：</strong>お住まいの自立相談支援機関</li>
+</ul>
+<p style="font-size:0.9em;color:#555;">出典：<a rel="nofollow noopener" target="_blank" href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059425.html">生活困窮者自立支援制度（厚労省）</a></p>
+<h3>4. 求職者支援制度（職業訓練受講給付金）</h3>
+<ul>
+<li><strong>対象：</strong>雇用保険を受給できない求職者などが、無料の職業訓練を受けながら生活支援を受ける制度</li>
+<li><strong>金額：</strong>職業訓練受講手当 月10万円＋通所手当（交通費）＋寄宿手当</li>
+<li><strong>主な要件：</strong>本人収入 月8万円以下／世帯収入 月30万円以下／世帯の金融資産300万円以下／訓練を8割以上出席 など（すべて満たす必要）</li>
+<li><strong>申込先：</strong>住所地を管轄するハローワーク</li>
+</ul>
+<p style="font-size:0.9em;color:#555;">出典：<a rel="nofollow noopener" target="_blank" href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyushokusha_shien/index.html">求職者支援制度のご案内（厚労省）</a>（金額・要件は変わりやすいため利用時に要確認）</p>
+<h3>5. 傷病手当金（病気・ケガで働けないとき）</h3>
+<ul>
+<li><strong>対象：</strong>病気やケガ（業務外）で会社を休み、給与が受けられない健康保険の被保険者</li>
+<li><strong>金額の目安：</strong>1日あたり＝直近12か月の標準報酬月額の平均÷30日×2/3</li>
+<li><strong>支給：</strong>連続3日間休んだ後（待期3日）、4日目から。支給開始日から通算1年6か月</li>
+<li><strong>相談先：</strong>勤務先または加入する健康保険（協会けんぽ各支部等）</li>
+</ul>
+<p style="font-size:0.9em;color:#555;">出典：<a rel="nofollow noopener" target="_blank" href="https://www.kyoukaikenpo.or.jp/benefit/injury_and_sickness_allowance/index.html">傷病手当金（協会けんぽ）</a></p>
+<h3>6. 生活保護（最終的なセーフティネット）</h3>
+<p>厚生労働大臣が定める基準で計算される「最低生活費」と収入を比べ、収入が下回る場合に差額が支給されます。資産・能力等の活用が前提ですが、<strong>他の制度で立ち行かない場合はためらわず相談してよい制度</strong>です。相談先はお住まいの地域を所管する<strong>福祉事務所の生活保護担当</strong>です。出典：<a rel="nofollow noopener" target="_blank" href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html">生活保護制度（厚労省）</a></p>
+<div style="background-color:#fff8e6;border:1px solid #f5d580;border-radius:8px;padding:16px;margin:20px 0;">
+<p style="margin:0;font-weight:bold;color:#8a6d00;">「即日融資」をうたうのは公的制度ではありません</p>
+<p style="margin:8px 0 0;font-size:0.92em;line-height:1.7;">公的な貸付は必ず審査があり、申込から数日以上かかります。「即日・審査なしで貸します」と個人やSNS・掲示板で持ちかけてくるのは、公的制度ではなく違法な貸付（ヤミ金）の可能性が高いため、利用しないでください。</p>
+</div>
+<h2>借金・取り立てが問題のときの相談窓口</h2>
+<ul>
+<li><strong>法テラス（日本司法支援センター）：</strong>借金・法的トラブルの無料相談。要件を満たせば無料法律相談・弁護士費用の立替も。<a rel="nofollow noopener" target="_blank" href="https://www.houterasu.or.jp/site/faq/syakkin.html">借金に関する相談（法テラス）</a></li>
+<li><strong>消費生活センター（消費者ホットライン 188）：</strong>局番なしの「188」で最寄りの相談窓口へ。<a rel="nofollow noopener" target="_blank" href="https://www.caa.go.jp/policies/policy/local_cooperation/local_consumer_administration/hotline/">消費者ホットライン（消費者庁）</a></li>
+<li><strong>多重債務相談窓口：</strong>金融庁・各財務局や自治体、日本貸金業協会等が受付。<a rel="nofollow noopener" target="_blank" href="https://www.fsa.go.jp/soudan/">多重債務についての相談窓口（金融庁）</a></li>
+</ul>
+<h2>急ぎの人向け：相談する順番</h2>
+<ol>
+<li>まず<strong>自立相談支援機関</strong>（自治体の生活困窮の総合窓口）へ。複数制度を横断的に案内してもらえます。</li>
+<li>病気・ケガで休んでいるなら<strong>傷病手当金</strong>、家賃が不安なら<strong>住居確保給付金</strong>、当座の少額なら<strong>市区町村社協の緊急小口資金</strong>（審査に数日・即日ではない点に注意）。</li>
+<li>借金・取り立てが問題なら<strong>法テラス</strong>や<strong>消費者ホットライン188</strong>へ。</li>
+<li>収入が最低生活費を下回り他制度で立ち行かない場合は、早めに<strong>福祉事務所で生活保護</strong>の相談を。</li>
+</ol>
+<h2>まとめ</h2>
+<p>急にお金が必要なとき、現金化やグレーな借入に頼る前に、無利子・低利子で取り立てのリスクがない公的制度がいくつもあります。「即日」ではない代わりに安全です。まずは自治体の自立相談支援機関に相談し、自分に合う制度を確認しましょう。</p>
+<div style="background-color:#f1f1f1;padding:16px;border-radius:8px;font-size:0.85em;margin-top:24px;">本記事は情報提供を目的としたもので、金額・要件は改定されることがあります。最新の内容・利用可否は各制度の公式窓口でご確認ください（2026年7月時点の公式情報をもとに作成）。</div>0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"bg-bg-soft border-b border-line py-6 lg:py-8","children":["$","div",null,{"className":"mx-auto max-w-[1024px] px-4 lg:px-6","children":["$","nav",null,{"className":"text-[11px] text-muted","children":[["$","$L2",null,{"href":"/","className":"hover:text-brand-blue","children":"HOME"}],["$","span",null,{"className":"mx-2","children":"›"}],[["$","$L2",null,{"href":"/category/kouteki-shien/","className":"hover:text-brand-blue","children":"公的支援・安全な借入"}],["$","span",null,{"className":"mx-2","children":"›"}]],["$","span",null,{"className":"text-ink line-clamp-1","children":"急にお金が必要なとき、国・自治体から借りる・もらう方法【緊急小口資金・給付・相談窓口 2026年7月】"}]]}]}]}],["$","article",null,{"className":"mx-auto max-w-[860px] px-4 lg:px-6 py-8 lg:py-12","children":[["$","header",null,{"className":"mb-6 lg:mb-8","children":[["$","div",null,{"className":"flex items-center gap-3 text-[11px] text-muted mb-3","children":[["$","$L2",null,{"href":"/category/kouteki-shien/","className":"px-3 py-1 rounded text-white font-bold text-[11px] bg-brand-blue","children":"公的支援・安全な借入"}],["$","time",null,{"children":"2026.07.12"}],false]}],["$","h1",null,{"className":"font-display text-[22px] lg:text-[32px] font-extrabold leading-tight","children":"急にお金が必要なとき、国・自治体から借りる・もらう方法【緊急小口資金・給付・相談窓口 2026年7月】"}],["$","p",null,{"className":"text-[13px] lg:text-[14px] text-muted mt-4 leading-relaxed","children":"急にお金が必要になったとき、現金化や先払い買取に手を出す前に知っておきたいのが、国や自治体の公的な貸付・給付制度と無料の相談窓口です。無利子・低利子で取り立てのリスクがない制度を、2026年7月時点の公式情報でまとめました。"}]]}],["$","img",null,{"src":"/images/cover-2.png","alt":"急にお金が必要なとき、国・自治体から借りる・もらう方法【緊急小口資金・給付・相談窓口 2026年7月】","width":1200,"height":675,"className":"w-full aspect-[16/9] object-cover rounded-lg mb-8"}],["$","div",null,{"className":"prose-content leading-relaxed text-[14px] lg:text-[15px]","dangerouslySetInnerHTML":{"__html":"$3"}}],false]}],"$L4","$L5"],null,"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zbZ8jcNQuSK5m7npIvlaO"}
+4:["$","section",null,{"className":"mx-auto max-w-[1280px] px-4 lg:px-6 mb-12","children":[["$","h2",null,{"className":"font-bold text-[16px] lg:text-[20px] mb-5 text-center","children":[["$","span",null,{"className":"block text-[11px] tracking-[0.18em] text-muted font-normal","children":"RELATED ARTICLE"}],"関連記事"]}],["$","div",null,{"className":"grid grid-cols-2 lg:grid-cols-4 gap-3 lg:gap-5","children":[]}]]}]
+5:["$","section",null,{"className":"bg-deepdark py-10 lg:py-14","children":["$","div",null,{"className":"mx-auto max-w-[1280px] px-4 lg:px-6","children":[["$","p",null,{"className":"text-center text-[12px] tracking-[0.22em] text-white/70 mb-6","children":"CATEGORY"}],["$","div",null,{"className":"grid grid-cols-2 lg:grid-cols-4 gap-3 lg:gap-4","children":[["$","$L2","sakibarai-news",{"href":"/category/sakibarai-news/","className":"flex items-center gap-3 p-4 lg:p-5 rounded font-bold text-white text-[12px] lg:text-[14px] leading-tight cat-card-red","children":[["$","img",null,{"src":"/images/icon-sakibarai-news.png","alt":"","width":48,"height":48,"className":"w-10 h-10 lg:w-12 lg:h-12 rounded object-cover shrink-0"}],["$","span",null,{"className":"flex-1","children":"先払い買取最新情報"}],["$","span",null,{"aria-hidden":true,"className":"text-white/70","children":"›"}]]}],["$","$L2","sakibarai-review",{"href":"/category/sakibarai-review/","className":"flex items-center gap-3 p-4 lg:p-5 rounded font-bold text-white text-[12px] lg:text-[14px] leading-tight cat-card-red","children":[["$","img",null,{"src":"/images/icon-sakibarai-review.png","alt":"","width":48,"height":48,"className":"w-10 h-10 lg:w-12 lg:h-12 rounded object-cover shrink-0"}],["$","span",null,{"className":"flex-1","children":"先払い買取業者レビュー"}],["$","span",null,{"aria-hidden":true,"className":"text-white/70","children":"›"}]]}],["$","$L2","atobarai-news",{"href":"/category/atobarai-news/","className":"flex items-center gap-3 p-4 lg:p-5 rounded font-bold text-white text-[12px] lg:text-[14px] leading-tight cat-card-blue","children":[["$","img",null,{"src":"/images/icon-atobarai-news.png","alt":"","width":48,"height":48,"className":"w-10 h-10 lg:w-12 lg:h-12 rounded object-cover shrink-0"}],["$","span",null,{"className":"flex-1","children":"後払いアプリ現金化最新情報"}],["$","span",null,{"aria-hidden":true,"className":"text-white/70","children":"›"}]]}],["$","$L2","atobarai-review",{"href":"/category/atobarai-review/","className":"flex items-center gap-3 p-4 lg:p-5 rounded font-bold text-white text-[12px] lg:text-[14px] leading-tight cat-card-blue","children":[["$","img",null,{"src":"/images/icon-atobarai-review.png","alt":"","width":48,"height":48,"className":"w-10 h-10 lg:w-12 lg:h-12 rounded object-cover shrink-0"}],["$","span",null,{"className":"flex-1","children":"後払いアプリ現金化業者レビュー"}],["$","span",null,{"aria-hidden":true,"className":"text-white/70","children":"›"}]]}],["$","$L2","kouteki-shien",{"href":"/category/kouteki-shien/","className":"flex items-center gap-3 p-4 lg:p-5 rounded font-bold text-white text-[12px] lg:text-[14px] leading-tight cat-card-blue","children":[["$","img",null,{"alt":"","width":48,"height":48,"className":"w-10 h-10 lg:w-12 lg:h-12 rounded object-cover shrink-0"}],["$","span",null,{"className":"flex-1","children":"公的支援・安全な借入"}],["$","span",null,{"aria-hidden":true,"className":"text-white/70","children":"›"}]]}]]}]]}]}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
