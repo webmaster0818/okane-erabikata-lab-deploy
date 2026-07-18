@@ -8,4 +8,4 @@
 :HL["/images/icon-sakibarai-review.png","image"]
 :HL["/images/icon-atobarai-news.png","image"]
 :HL["/images/icon-atobarai-review.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kureka-genkinka-kiyaku-ihan","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"sa9vE5ZlxcY-bLaSSsFhs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kureka-genkinka-kiyaku-ihan","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-fRqQ9D1CjrWLAtvKZPe4"}
