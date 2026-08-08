@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="マネーガイドジャーナル編集部のプロフィールイラスト">
+  <!-- 背景 -->
+  <circle cx="120" cy="120" r="120" fill="#e8eef5"/>
+  <circle cx="120" cy="120" r="120" fill="none"/>
+  <!-- 体・スーツ（胸まで） -->
+  <g>
+    <!-- 首 -->
+    <rect x="105" y="138" width="30" height="26" rx="10" fill="#e8b98f"/>
+    <path d="M105 150 q15 12 30 0 v14 h-30 z" fill="#dca87c"/>
+    <!-- シャツ -->
+    <path d="M62 240 q4 -58 34 -70 l24 18 24 -18 q30 12 34 70 z" fill="#ffffff"/>
+    <!-- ジャケット -->
+    <path d="M60 240 q3 -60 36 -72 l10 8 -18 64 z" fill="#2c3e50"/>
+    <path d="M180 240 q-3 -60 -36 -72 l-10 8 18 64 z" fill="#2c3e50"/>
+    <path d="M96 176 l-14 64 h30 l6 -52 z" fill="#34495e"/>
+    <path d="M144 176 l14 64 h-30 l-6 -52 z" fill="#34495e"/>
+    <!-- ネクタイ -->
+    <path d="M120 172 l-7 -8 h14 z" fill="#4a6fa5"/>
+    <path d="M120 170 l-6 34 6 12 6 -12 z" fill="#5b82b8"/>
+    <!-- 襟 -->
+    <path d="M113 164 l7 10 -14 4 z" fill="#f2f2f2"/>
+    <path d="M127 164 l-7 10 14 4 z" fill="#f2f2f2"/>
+  </g>
+  <!-- 頭 -->
+  <g>
+    <!-- 耳 -->
+    <circle cx="78" cy="106" r="9" fill="#e8b98f"/>
+    <circle cx="162" cy="106" r="9" fill="#e8b98f"/>
+    <!-- 顔 -->
+    <path d="M120 44 q44 0 44 50 q0 30 -16 43 q-13 11 -28 11 q-15 0 -28 -11 q-16 -13 -16 -43 q0 -50 44 -50 z" fill="#f0c49b"/>
+    <!-- 髪（白髪まじりの短髪） -->
+    <path d="M120 40 q-46 0 -45 52 q0 6 1 11 q3 -8 8 -10 q-2 -22 10 -32 q10 14 32 14 q22 0 30 -12 q10 10 9 30 q5 2 8 10 q1 -5 1 -11 q1 -52 -44 -52 z" fill="#5a5a5a"/>
+    <path d="M84 63 q8 -14 24 -17 q-14 8 -18 20 z" fill="#8a8a8a"/>
+    <path d="M156 63 q-8 -14 -24 -17 q14 8 18 20 z" fill="#8a8a8a"/>
+    <!-- 眉（柔和・少し下がり気味） -->
+    <path d="M92 96 q9 -6 20 -3" stroke="#4d4d4d" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <path d="M148 96 q-9 -6 -20 -3" stroke="#4d4d4d" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <!-- 目（笑顔で細める） -->
+    <path d="M95 110 q7 6 16 0" stroke="#333" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <path d="M145 110 q-7 6 -16 0" stroke="#333" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <!-- 目尻のしわ（中年らしさ・優しさ） -->
+    <path d="M88 108 q-3 2 -3 5" stroke="#d8a273" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <path d="M152 108 q3 2 3 5" stroke="#d8a273" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <!-- 鼻 -->
+    <path d="M120 112 q-3 10 -5 14 q2 3 7 3" stroke="#d8a273" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <!-- 口（さわやかな笑顔） -->
+    <path d="M104 137 q16 13 32 0 q-4 10 -16 10 q-12 0 -16 -10 z" fill="#ffffff" stroke="#b3573f" stroke-width="3" stroke-linejoin="round"/>
+    <!-- ほうれい線（うっすら） -->
+    <path d="M100 130 q-2 5 0 9" stroke="#e0ac7e" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M140 130 q2 5 0 9" stroke="#e0ac7e" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
